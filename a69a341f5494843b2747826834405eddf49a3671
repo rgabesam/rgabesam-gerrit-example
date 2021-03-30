@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1c5223f4_2eff8d0f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019043
+      },
+      "writtenOn": "2021-03-30T13:19:26Z",
+      "side": 1,
+      "message": "Horrible naming",
+      "revId": "a69a341f5494843b2747826834405eddf49a3671",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "449eb4af_b42f598d",
+        "filename": "example.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1019043
+      },
+      "writtenOn": "2021-03-30T13:19:26Z",
+      "side": 1,
+      "message": "i would rather name it bar",
+      "revId": "a69a341f5494843b2747826834405eddf49a3671",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
